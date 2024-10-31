@@ -1,9 +1,16 @@
 import "./App.css";
+// import Dnavbar from "./component/Dnavbar/Dnavbar";
+import Navbar  from "./component/Navbar/Navbar";
 
 function App() {
   return (
     <>
-      <h1 className="text-7xl">Vite + React</h1>
+      <main className="container m-auto">
+        
+
+        <Navbar></Navbar>
+        {/* <Dnavbar></Dnavbar> */}
+      </main>
     </>
   );
 }
