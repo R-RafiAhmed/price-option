@@ -1,0 +1,15 @@
+[
+    { "month": "Jan.", "basic": 39.49, "standard": 53.49, "premium": 73.49, "vip": 101.49 },
+    { "month": "Feb.", "basic": 37.99, "standard": 50.49, "premium": 75.99, "vip": 94.99 },
+    { "month": "March", "basic": 42.49, "standard": 55.99, "premium": 79.99, "vip": 99.99 },
+    { "month": "April", "basic": 32.99, "standard": 48.99, "premium": 68.99, "vip": 95.99 },
+    { "month": "May", "basic": 36.49, "standard": 50.99, "premium": 73.99, "vip": 90.99 },
+    { "month": "June", "basic": 34.99, "standard": 52.49, "premium": 70.99, "vip": 98.99 },
+    { "month": "July", "basic": 39.99, "standard": 47.99, "premium": 75.99, "vip": 92.99 },
+    { "month": "Aug.", "basic": 35.99, "standard": 53.99, "premium": 72.49, "vip": 100.99 },
+    { "month": "Sep.", "basic": 37.49, "standard": 49.99, "premium": 77.99, "vip": 93.99 },
+    { "month": "Oct.", "basic": 38.99, "standard": 51.49, "premium": 74.99, "vip": 97.99 },
+    { "month": "Nov.", "basic": 36.99, "standard": 48.49, "premium": 71.99, "vip": 92.49 },
+    { "month": "Dec.", "basic": 41.49, "standard": 54.99, "premium": 78.49, "vip": 96.49 }
+]
+
