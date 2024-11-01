@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "price": 29.99,
+        "featureName": "Basic Plan",
+        "features": [
+            "Access to gym equipment",
+            "1 personal training session per month",
+            "Free parking"
+        ]
+    },
+    {
+        "id": 2,
+        "price": 49.99,
+        "featureName": "Standard Plan",
+        "features": [
+            "Access to gym equipment",
+            "4 personal training sessions per month",
+            "Free parking",
+            "Access to group fitness classes"
+        ]
+    },
+    {
+        "id": 3,
+        "price": 69.99,
+        "featureName": "Premium Plan",
+        "features": [
+            "Access to gym equipment",
+            "8 personal training sessions per month",
+            "Free parking",
+            "Access to group fitness classes",
+            "Sauna and steam room access"
+        ]
+    },
+    {
+        "id": 4,
+        "price": 99.99,
+        "featureName": "VIP Plan",
+        "features": [
+            "Unlimited access to gym equipment",
+            "12 personal training sessions per month",
+            "Free parking",
+            "Unlimited group fitness classes",
+            "Sauna and steam room access",
+            "Access to VIP lounge"
+        ]
+    }
+]
