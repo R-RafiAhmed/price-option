@@ -3,6 +3,7 @@ import "./App.css";
 import Navbar  from "./component/Navbar/Navbar";
 import PriceOptions from "./component/PriceOptions/PriceOptions";
 import LineChart from "./component/LineChart/LineChart";
+import Phones from "./component/Phones/Phones";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         {/* <Dnavbar></Dnavbar> */}
         <PriceOptions></PriceOptions>
         <LineChart></LineChart>
+        <Phones></Phones>
       </main>
     </>
   );
